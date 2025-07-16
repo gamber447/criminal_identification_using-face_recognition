@@ -1,0 +1,5 @@
+Name        : Dawood Ibrahim
+DOB         : 1955-12-26
+nationality : indian
+Address     : Khed, Ratnagiri, Maharashtra, India
+Occupations : Gangster ,crime lord, drug lord

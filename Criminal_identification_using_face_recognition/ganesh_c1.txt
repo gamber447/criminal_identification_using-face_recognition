@@ -1,0 +1,5 @@
+Name     : Narsingu Ganesh
+Age      : 18+
+Dob      : 20-03-2002
+Address  : kamareddygudem,thripuraram(mandal),nalgonda(dist),telangana-508207
+crime    : murder
