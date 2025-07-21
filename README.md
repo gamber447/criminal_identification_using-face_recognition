@@ -1,4 +1,4 @@
-# 🧠 Face Recognition System using dlib & OpenCV
+# 🧠 Criminal Identification Using Face Recognition System [dlib & OpenCV]
 
 This project is a **real-time face recognition system** built using Python, OpenCV, and `face_recognition` (which wraps around `dlib`). It captures video from your webcam and detects known faces by comparing them with a preloaded dataset of images.
 
